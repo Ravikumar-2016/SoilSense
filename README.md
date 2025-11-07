@@ -4,8 +4,8 @@
   <a href="https://soil-sense-phi.vercel.app/">
     <img src="https://img.shields.io/badge/VISIT%20SITE-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site" />
   </a>
-  <a href="https://github.com/Ravikumar-2016/SoilSense.git">
-    <img src="https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <a href="https://github.com/Ravikumar-2016">
+    <img src="https://img.shields.io/badge/Git%20Hub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
