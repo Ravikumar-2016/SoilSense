@@ -129,5 +129,5 @@ http://localhost:3000
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developed_with❤️_by-Ravikumar_Gunti-1E88E5?style=for-the-badge">
+  <span style="font-size: 1.2em; color: #1E88E5;">Developed with ❤️ by Ravikumar Gunti</span>
 </p>
